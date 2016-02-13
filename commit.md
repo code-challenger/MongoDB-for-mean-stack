@@ -1,1 +1,1 @@
-fix ValidateStateTest for resumable index builds on 9/2/2016
+fix ValidateStateTest for resumable index builds on 13/2/2016
