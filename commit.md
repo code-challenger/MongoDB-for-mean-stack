@@ -1,1 +1,1 @@
-Add network counter for cluster authentication on 7/27/2016
+Remove redundant moves from query code on 7/20/2016
