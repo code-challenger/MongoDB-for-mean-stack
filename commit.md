@@ -1,1 +1,1 @@
-fix ValidateStateTest for resumable index builds on 14/2/2016
+Add network counter for cluster authentication on 7/29/2016
