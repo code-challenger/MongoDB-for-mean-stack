@@ -1,1 +1,1 @@
-Rename response fields if hello command is sent on mongod on 8/11/2016
+update shell error message for ADL on 8/8/2016
