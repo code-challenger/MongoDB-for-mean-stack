@@ -1,1 +1,1 @@
-update shell error message for ADL on 8/8/2016
+update shell error message for ADL on 8/9/2016
