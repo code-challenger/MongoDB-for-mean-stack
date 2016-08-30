@@ -1,1 +1,1 @@
-Log status in the catch block in JSThread::run() on 8/31/2016
+Log status in the catch block in JSThread::run() on 8/30/2016
