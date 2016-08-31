@@ -1,1 +1,1 @@
-12 elements changed on 9/1/2016
+Log status in the catch block in JSThread::run() on 8/31/2016
