@@ -1,1 +1,1 @@
-update shell error message for ADL on 8/9/2016
+fix ValidateStateTest for resumable index builds on 12/2/2016
